@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🤩",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🎈",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "id": "9e0d",
+      "cityName": "Bad Lausick",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-03-15T15:42:46.632Z",
+      "notes": "lloul",
+      "position": {
+        "lat": "51.15178610143037",
+        "lng": "12.63427734375"
+      }
+    },
+    {
+      "id": "92d1",
+      "cityName": "Grossdietwil",
+      "country": "Switzerland",
+      "emoji": "🇨🇭",
+      "date": "2024-03-15T15:42:52.950Z",
+      "notes": "fsf",
+      "position": {
+        "lat": "47.15984001304432",
+        "lng": "7.888183593750001"
+      }
+    },
+    {
+      "id": "e982",
+      "cityName": "Puebla de Don Rodrigo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-15T15:43:53.560Z",
+      "notes": "sa",
+      "position": {
+        "lat": "39.095962936305476",
+        "lng": "-4.7900390625"
+      }
+    }
+  ]
+}
